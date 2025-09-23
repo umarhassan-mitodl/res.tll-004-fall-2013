@@ -1,0 +1,61 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Science",
+      "Chemistry"
+    ],
+    [
+      "Science",
+      "Physics"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
+  "legacy_uid": "a29e75fb-d826-d2d1-92a9-30c18d6eb7d5",
+  "instructors": {
+    "content": [
+      "1c45cbdc-4ade-c529-3c1b-a451c8117021",
+      "8c45fbda-b81c-72ee-7128-1c761abf62ae"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "53b4d019-a6dc-6ccc-1fb8-6c6a12d9c5f6",
+    "website": "res-tll-004-stem-concept-videos-fall-2013"
+  },
+  "course_title": "STEM Concept Videos",
+  "hide_download": false,
+  "course_description": "The STEM Concept Videos are designed to help students learn a pivotal concept in science, technology, engineering, and/or mathematics (STEM). These ideas are the building blocks of many engineering curricula, and learning them will help students master more difficult material. The STEM Concept Videos were produced by the {{% resource_link \"1d10a376-b98e-4486-ab32-62bc306dbcc3\" \"Teaching and Learning Lab\" %}} (TLL) at MIT for the Singapore University of Technology and Design (SUTD).\n\nFor more information on how these videos were developed, please see the paper presented by TLL researchers at the American Society for Engineering Education (ASEE) 2013 conference.\n\nShah, D.N., JE French, J. Rankin, L. Breslow. \u201c{{% resource_link \"fafc8e6c-5a68-40e8-8e0d-0527126bd1c2\" \"Using Video to Tie Engineering Themes to Foundational Concepts\" %}}.\u201d American Society for Engineering Education Annual Conference, June 23-26, 2013.\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.TLL-004",
+  "course_image_thumbnail": {
+    "content": "e13c82e5-9907-3514-4802-3037c8684bde",
+    "website": "res-tll-004-stem-concept-videos-fall-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "site_uid": "d8f0c40f-5542-474c-a033-7f0e94d14cf2",
+  "site_short_id": "res.tll-004-fall-2013",
+  "site_url_path": "courses/res-tll-004-stem-concept-videos-fall-2013",
+  "title": "Course Metadata"
+}

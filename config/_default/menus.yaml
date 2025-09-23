@@ -1,0 +1,65 @@
+leftnav:
+- identifier: 53bcb5ef-562b-8c20-bc21-9567e0269453
+  name: Videos
+  pageRef: /video_galleries/videos/
+  weight: 10
+- identifier: d7a76512-aa4a-9913-9523-149a8c527e95
+  name: Communication
+  pageRef: /video_galleries/videos/communication
+  parent: 53bcb5ef-562b-8c20-bc21-9567e0269453
+  weight: 20
+- identifier: a8a8f424-8fc2-57db-3740-6b1dff82bf3e
+  name: Conservation
+  pageRef: /video_galleries/videos/conservation
+  parent: 53bcb5ef-562b-8c20-bc21-9567e0269453
+  weight: 30
+- identifier: ee1c17b9-3698-e35b-3fca-8ea85cec751a
+  name: Derivatives and Integrals
+  pageRef: /video_galleries/videos/derivatives-and-integrals
+  parent: 53bcb5ef-562b-8c20-bc21-9567e0269453
+  weight: 40
+- identifier: 7e7fcfb2-1302-97e4-3da2-fb9fcaab47f4
+  name: Differential Equations
+  pageRef: /video_galleries/videos/differential-equations
+  parent: 53bcb5ef-562b-8c20-bc21-9567e0269453
+  weight: 50
+- identifier: 1d043581-7256-fa29-ca4f-15acce3e863c
+  name: Equilibrium
+  pageRef: /video_galleries/videos/equilibrium
+  parent: 53bcb5ef-562b-8c20-bc21-9567e0269453
+  weight: 60
+- identifier: 5c800495-c618-099d-4802-9286b0d45a90
+  name: Governing Rules
+  pageRef: /video_galleries/videos/governing-rules
+  parent: 53bcb5ef-562b-8c20-bc21-9567e0269453
+  weight: 70
+- identifier: d7d35752-0244-2e35-07f0-770dd52a9b88
+  name: Information Flow
+  pageRef: /video_galleries/videos/information-flow
+  parent: 53bcb5ef-562b-8c20-bc21-9567e0269453
+  weight: 80
+- identifier: 408da444-4ea5-a84d-94db-f30ef2be5696
+  name: Linearity
+  pageRef: /video_galleries/videos/linearity
+  parent: 53bcb5ef-562b-8c20-bc21-9567e0269453
+  weight: 90
+- identifier: a0c7838a-f9cd-dcf2-a8b0-7bc9d6fc46d0
+  name: Probability and Statistics
+  pageRef: /video_galleries/videos/probability-and-statistics
+  parent: 53bcb5ef-562b-8c20-bc21-9567e0269453
+  weight: 100
+- identifier: 9b39fef0-8a7d-ea34-0e55-30b48721109e
+  name: Problem Solving
+  pageRef: /video_galleries/videos/problem-solving
+  parent: 53bcb5ef-562b-8c20-bc21-9567e0269453
+  weight: 110
+- identifier: 4ec91b67-3de8-013f-630b-c65bd58d63b0
+  name: Representations
+  pageRef: /video_galleries/videos/representations
+  parent: 53bcb5ef-562b-8c20-bc21-9567e0269453
+  weight: 120
+- identifier: 5c73ad5d-a665-9efe-f8ba-e6338c5eee3b
+  name: Structure-Function Properties
+  pageRef: /video_galleries/videos/structure-function-properties
+  parent: 53bcb5ef-562b-8c20-bc21-9567e0269453
+  weight: 130
