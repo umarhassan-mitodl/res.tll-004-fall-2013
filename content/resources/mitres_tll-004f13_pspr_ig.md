@@ -5,6 +5,8 @@ description: This resource contains information regarding Problem Solving Proces
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/4d0101a0b83b9e0c7ae69b471e6d0715_MITRES_TLL-004F13_PSPr_IG.pdf
 file_size: 237070
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

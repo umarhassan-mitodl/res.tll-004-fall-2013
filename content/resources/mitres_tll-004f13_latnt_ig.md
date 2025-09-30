@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/52a4c07b426b33fe52b7d1848b489072_MITRES_TLL-004F13_Latnt_IG.pdf
 file_size: 322513
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

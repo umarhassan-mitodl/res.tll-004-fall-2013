@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/bd6ff125aed1508a9167b3c42f9e4991_tGqogBLtK4M.vtt
 file_size: 19564
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

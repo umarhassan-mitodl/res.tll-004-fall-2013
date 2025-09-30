@@ -4,6 +4,8 @@ description: 'This resource contains information regarding Maxwell Instructor Gu
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/f9b69866c020f855494fc1bbd5908e9e_MITRES_TLL-004F13_Max_IG.pdf
 file_size: 629590
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

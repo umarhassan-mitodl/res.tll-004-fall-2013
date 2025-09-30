@@ -5,6 +5,8 @@ description: This resource contains information regarding Conservation of Mass I
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/9269b44b1f7ef5f450155dfbd22fe110_MITRES_TLL-004F13_CMass_IG.pdf
 file_size: 254069
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

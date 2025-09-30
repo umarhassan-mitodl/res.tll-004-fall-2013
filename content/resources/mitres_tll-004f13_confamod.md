@@ -4,6 +4,8 @@ description: 'This file contains information regarding contaminant fate modeling
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/a178be0477b356c39b5b5468b7cb19e5_MITRES_TLL-004F13_ConFaMod.pdf
 file_size: 641333
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/e13c82e59907351448023037c8684bde_res-tl-004f13-th.jpg
 file_size: 10758
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: The icons above represent the themes covered in the STEM Concept Videos,
     such as problem solving, representations, and derivatives and integrals. (Image
