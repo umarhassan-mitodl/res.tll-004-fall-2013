@@ -5,8 +5,6 @@ description: This resource contains information regarding Vector Fields Instruct
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/d0880b44554eaea55ea03a87d2db4c73_MITRES_TLL-004F13_VecF_IG.pdf
 file_size: 264718
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: This resource contains information regarding Divergence Instructor 
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/a70a54d5fecaa8b36a414ace76a9c257_MITRES_TLL-004F13_Div_IG.pdf
 file_size: 398261
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

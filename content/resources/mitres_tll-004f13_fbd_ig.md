@@ -5,8 +5,6 @@ description: This resource contains information regarding Free Body Diagram Inst
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/02504f5dbb717a599ebdea7a34c3ba88_MITRES_TLL-004F13_FBD_IG.pdf
 file_size: 1969393
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Videos

@@ -5,8 +5,6 @@ description: 'This file contains information regarding equilibrium vs. steady st
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/348d3d5d6f0ed303d6d9d27337c6b5fe_MITRES_TLL-004F13_EquGuide.pdf
 file_size: 207457
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

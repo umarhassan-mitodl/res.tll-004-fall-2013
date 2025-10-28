@@ -4,8 +4,6 @@ description: New image Upload
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/71b4db459160069c244ac3cd80dc3388_RES.TLL-004_F13_Maxwells-th.jpg
 file_size: 6841
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

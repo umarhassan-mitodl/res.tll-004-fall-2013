@@ -4,8 +4,6 @@ description: 'This file contains information regarding an ode to odes transcript
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/629802c7e3b19de30fdd6804c7406afb_MITRES_TLL-004F13_AnOdeTo.pdf
 file_size: 653602
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

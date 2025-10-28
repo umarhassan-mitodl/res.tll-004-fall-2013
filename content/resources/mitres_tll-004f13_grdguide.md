@@ -4,8 +4,6 @@ description: 'This file contains information regarding gradient instructor guide
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/d213b6b2fda4b9d7e98539152c725e92_MITRES_TLL-004F13_GrdGuide.pdf
 file_size: 289375
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
